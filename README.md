@@ -4,16 +4,11 @@
 
 **🚀 Live Demo**: [https://enhanced-document-summarizer-mxgqg6hrrdnvedqj8vww8g.streamlit.app/](https://enhanced-document-summarizer-mxgqg6hrrdnvedqj8vww8g.streamlit.app/)
 
----
-
 ## 👨‍💻 Author
-
 **Apurba Manna**  
 📧 Email: [98apurbamanna@gmail.com](mailto:98apurbamanna@gmail.com)  
-💼 LinkedIn: [apurba-manna-amsc](https://www.linkedin.com/in/apurba-manna-amsc)  
-🌐 Live Application: [Enhanced Document Summarizer](https://enhanced-document-summarizer-mxgqg6hrrdnvedqj8vww8g.streamlit.app/)
-
----
+💼 LinkedIn: [apurba-manna](https://linkedin.com/in/apurba-manna)  
+🐙 GitHub: [apurba-manna-amsc](https://github.com/apurba-manna-amsc)
 
 ## 🎯 Problem Statement
 
