@@ -139,7 +139,7 @@ D̂B(k) = [max(DB) - DB(k)] / [max(DB) - min(DB)]  # Inverted since lower is bet
 
 #### Step 2: Weighted Composite Score
 ```
-Composite(k) = w₁·Ŝ(k) + w₂·ĈH(k) + w₃·D̂B(k)
+Composite(k) = w₁·Ŝ(k) + w₂·ĈH(k) + w₃·D̂B(k), where w₁ + w₂ + w₃ = 1
 ```
 
 Default weights: `w₁ = w₂ = w₃ = 1/3` (equal importance)
