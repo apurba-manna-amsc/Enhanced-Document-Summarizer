@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+groq
+sentence-transformers
+youtube-transcript-api
+langchain
+langchain-community
+langchain-openai
+scikit-learn
+matplotlib
+seaborn
+numpy
+pandas
