@@ -11,3 +11,4 @@ matplotlib
 seaborn
 numpy
 pandas
+pypdf
