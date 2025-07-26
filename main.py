@@ -89,7 +89,7 @@ def display_summary_results(results):
     # Display the summary in a nice box
     st.markdown(
         f"""
-        <div style="background-color: #f8f9fa; padding: 1.5rem; border-radius: 0.5rem; border-left: 4px solid #28a745;">
+        <div style=padding: 1.5rem; border-radius: 0.5rem; border-left: 4px solid #28a745;">
         {results['summary']}
         </div>
         """, 
